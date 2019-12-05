@@ -1,14 +1,15 @@
 # gitcad_robot
 My project with mine idle for visual robot
-## robocad 1.5 beta
-**robocad 1.5 beta** includes a new important functions for programming visual (or real) robot with 3 omni wheels.  
+## robocad 1.6 beta
+**robocad 1.6 beta** includes a new important functions for programming visual (or real) robot with 3 omni wheels.  
 At first you need to open IDLE in the folder called **"gui"** and start **"gui.exe"**  
 To open viewer you need to go to the folder called **"view"** and then start **"view.exe"**  
-## watch the [video about robocad 1.5](https://www.youtube.com/watch?v=frR_C2sS0FI&t=8s "Youtube")  
+## watch the [video about robocad 1.6](https://www.youtube.com/watch?v=frR_C2sS0FI&t=8s "Youtube")  
 
 ![](https://github.com/CrackAndDie/robocad_1.4b/blob/master/cad_low.png)
 ## new additions
-### new crappy design! (clap), nice. and now you can shift area
+### new veeery small and pretty robocad
+![](https://github.com/CrackAndDie/robocad_1.4b/blob/master/cad_low.png)
 #### robotino.get_image_path(im_name: str, start_x: int, start_y: int, infelicity=14, dispersion=3, is_start=True, power=3, reverse_x=False, reverse_y=True, number_in_arr=10, start_dis=3, slowly=True)  
 
 Getting b/w image with black line by which it will drive
