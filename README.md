@@ -9,7 +9,9 @@ To open viewer you need to go to the folder called **"view"** and then start **"
 ![](https://github.com/CrackAndDie/robocad_1.4b/blob/master/cad_low.png)
 ## new additions
 ### new veeery small and pretty robocad
-![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/robocad1.6.png =250x250)
+![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/robocad1.6_big.png)
+### or
+![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/robocad1.6_big2.png)
 #### robotino.get_image_path(im_name: str, start_x: int, start_y: int, infelicity=14, dispersion=3, is_start=True, power=3, reverse_x=False, reverse_y=True, number_in_arr=10, start_dis=3, slowly=True)  
 
 Getting b/w image with black line by which it will drive
