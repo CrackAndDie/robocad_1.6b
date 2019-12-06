@@ -20,6 +20,8 @@ Saving image like image from robocad camera
 :param st: Name of image  
 :return: None  
 
+![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/bez_ugla.png)
+
 #### robotino.drive_by_image(arr: array)
 
 Func to drive by image
