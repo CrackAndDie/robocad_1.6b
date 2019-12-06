@@ -12,23 +12,13 @@ To open viewer you need to go to the folder called **"view"** and then start **"
 ![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/robocad1.6_big.png)
 ### or (shakaled 10%)
 ![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/robocad1.6_big2.jpg)
-#### robotino.get_image_path(im_name: str, start_x: int, start_y: int, infelicity=14, dispersion=3, is_start=True, power=3, reverse_x=False, reverse_y=True, number_in_arr=10, start_dis=3, slowly=True)  
+### and now u can call it robocad
+#### robocad.save_cam_image(st='robocadcam.png')  
 
-Getting b/w image with black line by which it will drive
-
-:param im_name: Image name (image needs to be in the same folder as program)  
-:param start_x: X position of pixel on the image from which robot will drive  
-:param start_y: Y position of pixel on the image from which robot will drive  
-:param infelicity: Distance of return to last pixel that has more than one path  
-:param dispersion: Dispersion of search nearest pixels  
-:param start_dis: Start dispersion of search nearest pixels  
-:param is_start: If True start_X and start_Y will be (0, 0)  
-:param power: Coefficient to multiple to coords  
-:param reverse_x: Reverses X coord  
-:param reverse_y: Reverses Y coord  
-:param number_in_arr: Last number to return in arr that has more than one path  
-:param slowly: If True start_dis will go to dispersion by adding 2  
-:return: Path includes array of tuples coords like [(0, 0), (9, 18), (4, 82)]  
+Saving image like image from robocad camera  
+  
+:param st: Name of image  
+:return: None  
 
 #### robotino.drive_by_image(arr: array)
 
