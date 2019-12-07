@@ -6,7 +6,7 @@ At first you need to open IDLE in the folder called **"gui"** and start **"gui.e
 To open viewer you need to go to the folder called **"view"** and then start **"view.exe"**  
 ## watch the [video about robocad 1.6](https://www.youtube.com/watch?v=frR_C2sS0FI&t=8s "Youtube")  
 
-![](https://github.com/CrackAndDie/robocad_1.4b/blob/master/cad_low_d.png)
+![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/cad_low_d.png)
 ## new additions
 ### new veeery small and pretty robocad
 ![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/robocad1.6_big.png)
