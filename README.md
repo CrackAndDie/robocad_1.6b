@@ -26,25 +26,25 @@ Saving image like image from robocad camera
 ### and one more image that show you how is robocad sees field  
 ![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/where_1.6.png)  
 
-#### robotino.left_sharp()  
+#### robocad.left_sharp()  
 
 Distance from left infrared sensor  
 
 :return: Distance (float)  
 
-#### robotino.right_sharp()  
+#### robocad.right_sharp()  
 
 Distance from right infrared sensor  
 
 :return: Distance (float)  
 
-#### robotino.left_us()  
+#### robocad.left_us()  
 
 Distance from left ultrasonic sensor  
 
 :return: Distance (float)  
 
-#### robotino.right_us()  
+#### robocad.right_us()  
 
 Distance from right ultrasonic sensor  
 
