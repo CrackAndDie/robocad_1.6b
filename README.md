@@ -49,3 +49,6 @@ Distance from left ultrasonic sensor
 Distance from right ultrasonic sensor  
 
 :return: Distance (float)  
+
+### and the sensors seems like...  
+![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/sensors.jpg)
