@@ -23,6 +23,8 @@ Saving image like image from robocad camera
 ### check this one  
 ![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/bez_ugla.png)  
 ### yeah it is under drugs  
+### and one more image that show you how is robocad sees field  
+![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/where_1.6.png)  
 
 #### robotino.drive_by_image(arr: array)
 
