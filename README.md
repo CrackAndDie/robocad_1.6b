@@ -26,16 +26,26 @@ Saving image like image from robocad camera
 ### and one more image that show you how is robocad sees field  
 ![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/where_1.6.png)  
 
-#### robotino.drive_by_image(arr: array)
+#### robotino.left_sharp()  
 
-Func to drive by image
+Distance from left infrared sensor  
 
-:param arr: Path array  
-:return: None  
+:return: Distance (float)  
 
-#### robotino.drive_by_axis(tup: tuple)
+#### robotino.right_sharp()  
 
-Func to drive by axis X, Y and rotate
+Distance from right infrared sensor  
 
-:param tup: Tuple of X, Y and rot  
-:return: None  
+:return: Distance (float)  
+
+#### robotino.left_us()  
+
+Distance from left ultrasonic sensor  
+
+:return: Distance (float)  
+
+#### robotino.right_us()  
+
+Distance from right ultrasonic sensor  
+
+:return: Distance (float)  
