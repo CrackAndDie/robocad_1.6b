@@ -50,5 +50,5 @@ Distance from right ultrasonic sensor
 
 :return: Distance (float)  
 
-### and the sensors seems like...  
+### and the sensors seems like... jedi(?) (shakaled 30%)  
 ![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/sensors.jpg)
