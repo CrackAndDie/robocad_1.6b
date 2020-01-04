@@ -6,12 +6,8 @@ At first you need to open IDLE in the folder called **"gui"** and start **"gui.e
 To open viewer you need to go to the folder called **"view"** and then start **"view.exe"**  
 ## watch the [video about robocad 1.6](https://www.youtube.com/watch?v=zTkgmJpXnCQ&t=132s "Youtube")  
 
-![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/cad_low_d.png)
 ## new additions
 ### new veeery small and pretty robocad
-![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/robocad1.6_big.png)
-### or (shakaled 10%)
-![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/robocad1.6_big2.jpg)
 ### and now u can call it robocad
 #### robocad.save_cam_image(st='robocadcam.png')  
 
@@ -50,5 +46,4 @@ Distance from right ultrasonic sensor
 
 :return: Distance (float)  
 
-### and the sensors seems like... jedi(?) (shakaled 30%)  
-![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/sensors.jpg)
+### and the sensors seems like... jedi(?) 
